@@ -4,8 +4,8 @@
 ## Installation
 We provide a simple bash file to install the environment:
 ```
-git clone https://github.com/DLCV-Fall-2022/final-project-challenge-2-il0ve4my.git
-cd final-project-challenge-2-il0ve4my
+git clone https://github.com/jhc659/DLCV.git
+cd DLCV/Final-project
 source install.sh
 ```
 Cuda-11.3 is required. Modify `install.sh` if different cuda version is used. See [Install](https://github.com/guochengqian/PointNeXt/blob/master/docs/index.md) for details.
